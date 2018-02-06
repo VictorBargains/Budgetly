@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ssan9/Budgetly.git"
+    "url": "git+https://github.com/VictorBargains/Budgetly.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ssan9/Budgetly/issues"
+    "url": "https://github.com/VictorBargains/Budgetly/issues"
   },
-  "homepage": "https://github.com/ssan9/Budgetly#readme",
+  "homepage": "https://github.com/VictorBargains/Budgetly#readme",
   "dependencies": {
     "bcryptjs": "^2.4.0",
     "body-parser": "^1.15.2",
